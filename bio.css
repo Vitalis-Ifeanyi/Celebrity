@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.biography {
+  background-color: darkorange;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+.bio {
+
+  text-align: justify;
+
+  padding-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 50PX;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bioimage {
+  padding-left: 40px;
+}
+ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  margin: 15px;
+  border-radius: 5px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
